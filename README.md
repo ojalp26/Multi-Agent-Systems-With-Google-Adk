@@ -115,7 +115,6 @@ In this demo video, I showcase:
      ├──__init__.py
      ├──day3_data.db
 ├── 📄 README.md
-├── 🎥 demo_video.mp4
 └── 📜 Detailed notes
 ```
 
@@ -126,7 +125,7 @@ In this demo video, I showcase:
 It contains deatiled notes covering all the topics along with code implementation
 To read the detailed explanation of each agent, open:
 
-👉 (Click Here)[https://docs.google.com/document/d/1vhvmeBaxnbuapaiICDWfltCvh-HPtCrouOw9cc8j1ko/edit?usp=sharing]
+👉 [Click Here](https://docs.google.com/document/d/1vhvmeBaxnbuapaiICDWfltCvh-HPtCrouOw9cc8j1ko/edit?usp=sharing)
 
 ---
 
