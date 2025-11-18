@@ -25,7 +25,7 @@ Across these 5 days, I implemented:
 
 ## 🎥 Demo Video
 
-I have included a **complete video demonstration** showing:
+Here's **complete video demonstration**:
 
 
 
