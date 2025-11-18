@@ -29,6 +29,10 @@ I have included a **complete video demonstration** showing:
 
 
 
+https://github.com/user-attachments/assets/c7d5bb4b-26ce-46a0-8432-26f84bdd43ca
+
+
+
 In this demo video, I showcase:
 
 * Autonomous Tool Chaining: The agent intelligently executes a sequence of 3 distinct tools (Fee Lookup → Exchange Rate → Calculator) to solve a complex financial query.
