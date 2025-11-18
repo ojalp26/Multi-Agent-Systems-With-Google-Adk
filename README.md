@@ -21,7 +21,6 @@ Across these 5 days, I implemented:
 * 📚 Clean detailed notes for every concept
 
 
-
 ---
 
 ## 🎥 Demo Video
@@ -105,28 +104,29 @@ In this demo video, I showcase:
 ## 📁 Repository Structure
 
 ```
-📦 google-agentic-ai-course
+📦 Multi-Agent-Systems-With-Google-Adk
 │
-├── 📂 day1_agent
-├── 📂 day2_multi_agent
-├── 📂 day3_memory_app
-├── 📂 day4_observability
-├── 📂 day5_a2a
-├── 📂 production_notes
-│
+├── 📂 Code Implementation
+     ├── 📂 day1_agent
+     ├── 📂 day2_multi_agent
+     ├── 📂 day3_memory_app
+     ├── 📂 day4_observability
+     ├── 📂 day5_a2a
+     ├──__init__.py
+     ├──day3_data.db
 ├── 📄 README.md
 ├── 🎥 demo_video.mp4
-└── 📜 transcripts_and_pdf_notes
+└── 📜 Detailed notes
 ```
 
 ---
 
 ## 📄 Detailed Notes
 
-Each folder contains a separate text/PDF summary.  
+It contains deatiled notes covering all the topics along with code implementation
 To read the detailed explanation of each agent, open:
 
-👉 **`Detailed_Notes.md`** (included in the repo)
+👉 (Click Here)[https://docs.google.com/document/d/1vhvmeBaxnbuapaiICDWfltCvh-HPtCrouOw9cc8j1ko/edit?usp=sharing]
 
 ---
 
@@ -141,3 +141,4 @@ This 5-day project gave me a complete understanding of:
 
 This repo serves as my personal documentation of everything I built and learned.
 
+---
