@@ -18,9 +18,25 @@ Across these 5 days, I implemented:
 * 🛠️ Debug-ready agents using observability and traces  
 * 🤝 A complete **A2A (Agent-to-Agent) communication system**  
 * ⚙️ A production-ready agent with proper architecture  
-* 📚 Clean detailed notes for every concept (from PDF + transcript)
+* 📚 Clean detailed notes for every concept
 
-A full **demo video** of all agents running locally is shown below:
+
+
+---
+
+## 🎥 Demo Video
+
+I have included a **complete video demonstration** showing:
+
+
+
+In this demo video, I showcase:
+
+* Autonomous Tool Chaining: The agent intelligently executes a sequence of 3 distinct tools (Fee Lookup → Exchange Rate → Calculator) to solve a complex financial query.
+* Persistent State Management: The system recalls user context (Name/Location) from a SQLite database even after a complete server restart.
+* Live Observability: The terminal logs reveal the agent's internal "thought process" and tool inputs in real-time, proving it isn't just guessing.
+* Agent-to-Agent (A2A) Networking: Two separate terminal processes communicate via the A2A protocol, simulating a real-world Client-Server microservices architecture.
+* Strict Instruction Adherence: The agent follows "Critical Rules" to bypass clarifying questions and immediately execute code for faster results.
 
 
 ---
@@ -83,21 +99,6 @@ A full **demo video** of all agents running locally is shown below:
 * Understood agent cards, tool definitions, API usage, and evaluation design  
 * Created clean notes summarizing every section from the PDF  
 
----
-
-## 🎥 Demo Video
-
-I have included a **complete video demonstration** showing:
-
-
-
-In this demo video, I showcase:
-
-* Autonomous Tool Chaining: The agent intelligently executes a sequence of 3 distinct tools (Fee Lookup → Exchange Rate → Calculator) to solve a complex financial query.
-* Persistent State Management: The system recalls user context (Name/Location) from a SQLite database even after a complete server restart.
-* Live Observability: The terminal logs reveal the agent's internal "thought process" and tool inputs in real-time, proving it isn't just guessing.
-* Agent-to-Agent (A2A) Networking: Two separate terminal processes communicate via the A2A protocol, simulating a real-world Client-Server microservices architecture.
-* Strict Instruction Adherence: The agent follows "Critical Rules" to bypass clarifying questions and immediately execute code for faster results.
 
 ---
 
