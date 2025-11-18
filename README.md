@@ -92,15 +92,7 @@ In this demo video, I showcase:
 * Implemented a real multi-agent network  
 * Used `RemoteA2aAgent` + Uvicorn to simulate microservices  
 * Verified inter-agent communication end-to-end  
-
----
-
-### 🌐 **Day 5 — Prototype to Production (PDF Notes)**
-
-* Studied production design best practices  
-* Learned about separation of concern, modular design, and agent structuring  
-* Understood agent cards, tool definitions, API usage, and evaluation design  
-* Created clean notes summarizing every section from the PDF  
+ 
 
 
 ---
